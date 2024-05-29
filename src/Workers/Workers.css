@@ -1,0 +1,18 @@
+.Workers {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Workers-header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Add-worker {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 10px;
+}

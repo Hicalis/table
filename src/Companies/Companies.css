@@ -1,0 +1,18 @@
+.Companies {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Companies-header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Add-company {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 10px;
+}
